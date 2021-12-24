@@ -1,6 +1,7 @@
 <h2>Felipe dos Santos</h2>
 
 <p>📚 Estutante de <strong>Análise e Desenvolvimento de Sistemas</strong> - Universidade Feevale</p>
+<p>👨‍💻 Desenvolvedor Jr. na <a href="https://dooca.com.br/" target="_blank">Dooca Commerce</a>
 
 <!-- social medias icons -->
 <div>
@@ -21,8 +22,8 @@
 
 <!-- dev icons -->
 <div>
- <!--<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-->
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
