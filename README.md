@@ -1,7 +1,6 @@
 <h2>Felipe dos Santos</h2>
 
-<p>📚 Estutante de <strong>Análise e Desenvolvimento de Sistemas</strong> - Universidade Feevale</p>
-<p>👨‍💻 Desenvolvedor Jr. na <a href="https://dooca.com.br/" target="_blank">Dooca Commerce</a>
+
 
 <!-- social medias icons -->
 <div>
@@ -10,7 +9,7 @@
  <a href="https://www.linkedin.com/in/felipe-dos-santos-1869a0221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-##
+
 
 <!-- github stats -->
 <div>
